@@ -1,0 +1,14 @@
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\bin\Debug\net9.0\Reservation.exe
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\bin\Debug\net9.0\Reservation.deps.json
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\bin\Debug\net9.0\Reservation.runtimeconfig.json
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\bin\Debug\net9.0\Reservation.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\bin\Debug\net9.0\Reservation.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\refint\Reservation.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\Reservation.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Reservation\obj\Debug\net9.0\ref\Reservation.dll

@@ -1,0 +1,14 @@
+C:\Users\xk1045013\Desktop\XK Capstone\Account\bin\Debug\net9.0\Account.exe
+C:\Users\xk1045013\Desktop\XK Capstone\Account\bin\Debug\net9.0\Account.deps.json
+C:\Users\xk1045013\Desktop\XK Capstone\Account\bin\Debug\net9.0\Account.runtimeconfig.json
+C:\Users\xk1045013\Desktop\XK Capstone\Account\bin\Debug\net9.0\Account.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Account\bin\Debug\net9.0\Account.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\refint\Account.dll
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.pdb
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\Account.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\XK Capstone\Account\obj\Debug\net9.0\ref\Account.dll
