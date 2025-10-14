@@ -9,6 +9,7 @@ class Program
         Display("data.txt");
         Limit("data.txt", 5);
         Reverse("data.txt");
+        Copy("data.txt", "copy.txt");
     }
     static void Display(string s)
     {
@@ -64,14 +65,18 @@ class Program
     }
     static void Copy(string orig, string copy)
     {
+        List<string> lines = new List<string>();
         string line;
         StreamReader sr = new StreamReader($"{System.AppDomain.CurrentDomain.BaseDirectory}/{orig}");
         line = sr.ReadLine();
         while (line != null)
         {
-            Console.WriteLine(line);
+            lines.Add(line);
             line = sr.ReadLine();
         }
         sr.Close();
+        StreamWriter sw = new StreamWriter($"{System.AppDomain.CurrentDomain.BaseDirectory}/{copy}");
+        foreach (string l in lines) { sw.WriteLine(l); }
+        sw.Close();
     }
 }
