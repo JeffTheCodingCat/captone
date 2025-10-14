@@ -55,9 +55,21 @@ class Program
         sr.Close();
         sr = new StreamReader($"{System.AppDomain.CurrentDomain.BaseDirectory}/{s}");
         line = sr.ReadLine();
-        for(int i = lines.Count; i > 0; i--)
+        for (int i = lines.Count; i > 0; i--)
         {
             Console.WriteLine(lines[i - 1]);
+            line = sr.ReadLine();
+        }
+        sr.Close();
+    }
+    static void Copy(string orig, string copy)
+    {
+        string line;
+        StreamReader sr = new StreamReader($"{System.AppDomain.CurrentDomain.BaseDirectory}/{orig}");
+        line = sr.ReadLine();
+        while (line != null)
+        {
+            Console.WriteLine(line);
             line = sr.ReadLine();
         }
         sr.Close();
