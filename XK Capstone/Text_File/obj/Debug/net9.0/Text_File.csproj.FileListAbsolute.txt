@@ -1,0 +1,15 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\bin\Debug\net9.0\Text_File.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\bin\Debug\net9.0\Text_File.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\bin\Debug\net9.0\Text_File.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\bin\Debug\net9.0\Text_File.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\bin\Debug\net9.0\Text_File.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.GeneratedMSBuildEditorConfig.editorconfig
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.csproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.sourcelink.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\refint\Text_File.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\Text_File.genruntimeconfig.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Text_File\obj\Debug\net9.0\ref\Text_File.dll

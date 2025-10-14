@@ -1,0 +1,15 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\bin\Debug\net9.0\Minions.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\bin\Debug\net9.0\Minions.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\bin\Debug\net9.0\Minions.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\bin\Debug\net9.0\Minions.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\bin\Debug\net9.0\Minions.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.GeneratedMSBuildEditorConfig.editorconfig
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.csproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.sourcelink.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\refint\Minions.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\Minions.genruntimeconfig.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\xk1045013\My Documents\GitHub\captone\XK Capstone\Minions\obj\Debug\net9.0\ref\Minions.dll

@@ -41,8 +41,8 @@ public abstract class Employee
         get { return ptoDaysTaken; }
         set
         {
+            if (value > PTO) { throw new ArgumentException("Too many pto days"); }
             ptoDaysTaken = value;
-            if(ptoDaysTaken > PTO){ throw new ArgumentException("Too many pto days"); }
         }
         
     }

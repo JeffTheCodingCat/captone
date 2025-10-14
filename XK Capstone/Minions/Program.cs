@@ -15,12 +15,20 @@ class Program
         HourlyEmployee Finn = new HourlyEmployee("Finnegan", "Triangle", "01037", 14.50, 22);
         HourlyEmployee Herb = new HourlyEmployee("Herbert", "Rectangle", "01038", 15.50, 25);
         SalariedEmployee Izzy = new SalariedEmployee("Isabelle", "Doombringer", "01500", 87000);
-        DrGoof.ptotaken = 0;
-        platypus.ptotaken = 1;
-        tryJerry.ptotaken = 5;
-        Finn.ptotaken = 11;
-        Herb.ptotaken = 3;
-        Izzy.ptotaken = 30;
+        try
+        {
+            DrGoof.ptotaken = 0;
+            platypus.ptotaken = 1;
+            Jerry.ptotaken = 5;
+            Finn.ptotaken = 11;
+            Herb.ptotaken = 3;
+            Izzy.ptotaken = 40;
+        }
+        catch (ArgumentException e)
+        {
+            Console.WriteLine(e.Message);
+            Environment.Exit(67);
+        }
         GoofenshmirtzEvilInc.Add(DrGoof);
         GoofenshmirtzEvilInc.Add(platypus);
         GoofenshmirtzEvilInc.Add(Jerry);
