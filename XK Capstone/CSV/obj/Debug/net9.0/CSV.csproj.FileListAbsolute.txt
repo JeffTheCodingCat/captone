@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\bin\Debug\net9.0\CSV.exe
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\bin\Debug\net9.0\CSV.deps.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\bin\Debug\net9.0\CSV.runtimeconfig.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\bin\Debug\net9.0\CSV.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\bin\Debug\net9.0\CSV.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.sourcelink.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\refint\CSV.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\CSV.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV\obj\Debug\net9.0\ref\CSV.dll

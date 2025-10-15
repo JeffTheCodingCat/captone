@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\bin\Debug\net9.0\Kiddies.exe
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\bin\Debug\net9.0\Kiddies.deps.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\bin\Debug\net9.0\Kiddies.runtimeconfig.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\bin\Debug\net9.0\Kiddies.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\bin\Debug\net9.0\Kiddies.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.sourcelink.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\refint\Kiddies.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\Kiddies.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Kiddies\obj\Debug\net9.0\ref\Kiddies.dll
