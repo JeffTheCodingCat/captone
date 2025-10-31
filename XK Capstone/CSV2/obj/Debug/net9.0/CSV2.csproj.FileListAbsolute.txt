@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\bin\Debug\net9.0\CSV2.exe
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\bin\Debug\net9.0\CSV2.deps.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\bin\Debug\net9.0\CSV2.runtimeconfig.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\bin\Debug\net9.0\CSV2.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\bin\Debug\net9.0\CSV2.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.sourcelink.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\refint\CSV2.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\CSV2.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\CSV2\obj\Debug\net9.0\ref\CSV2.dll
