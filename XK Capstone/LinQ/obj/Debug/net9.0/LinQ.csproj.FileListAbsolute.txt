@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\bin\Debug\net9.0\LinQ.exe
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\bin\Debug\net9.0\LinQ.deps.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\bin\Debug\net9.0\LinQ.runtimeconfig.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\bin\Debug\net9.0\LinQ.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\bin\Debug\net9.0\LinQ.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.sourcelink.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\refint\LinQ.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\LinQ.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\LinQ\obj\Debug\net9.0\ref\LinQ.dll
