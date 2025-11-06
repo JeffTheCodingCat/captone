@@ -11,7 +11,7 @@ class Sort
             swapped = false;
             for (j = 0; j < arr.Length - i - 1; j++)
             {
-                if (compare(arr[j], arr[j + 1]) < 0)
+                if (compare(arr[j], arr[j + 1]) != -1)
                 {
 
                     // Swap arr[j] and arr[j+1]

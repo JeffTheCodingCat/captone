@@ -1,0 +1,15 @@
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\bin\Debug\net9.0\Interface.exe
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\bin\Debug\net9.0\Interface.deps.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\bin\Debug\net9.0\Interface.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\bin\Debug\net9.0\Interface.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.sourcelink.json
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\refint\Interface.dll
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.pdb
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+C:\Users\xk1045013\Desktop\captone\XK Capstone\Interface\obj\Debug\net9.0\ref\Interface.dll

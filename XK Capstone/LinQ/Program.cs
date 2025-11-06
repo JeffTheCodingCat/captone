@@ -67,10 +67,39 @@ class Program
         Console.WriteLine();
         DelegateTest.processArray(myArray, x => x * 2);
         foreach (int i in myArray) { Console.Write(i + " "); }
-
+        Console.WriteLine();
         Sort.bubbleSort(products, NameCompare);
+        foreach (Product p in products)
+        {
+            Console.WriteLine(p);
+        }
+        Sort.bubbleSort(products, PriceCompare);
+        foreach (Product p in products)
+        {
+            Console.WriteLine(p);
+        }
+
+        int[] numbers = { 6, 7, 4, 2, 9, 1 };
+        int max = numbers.Max();
+        Console.WriteLine($"Max: {max}");
+        int priceMax = products.Max(p => (int)p.Price);
+        Console.WriteLine($"Price Max: {priceMax}");
+        int expensiveProducts = products.Count(p => p.Price > 100);
+        Console.WriteLine($"Expensive Products: {expensiveProducts}");
+        Product firstDewalt = products.First(Product => Product.Manufacturer == "Dewalt");
+        Console.WriteLine($"First Dewalt: {firstDewalt}");
+        var expensiveItems = ExpensiveItems(products);
+        Console.WriteLine("Expensive Items: ");
+        foreach (var item in expensiveItems)
+        {
+            Console.WriteLine(item);
+        }
     }
-    
+
+    public static IEnumerable<Product> ExpensiveItems(IEnumerable<Product> products)
+    {
+        return products.Where(p => p.Price > products.Average(prod => prod.Price));
+    }
     /* static int addOne(int x)
      {
          return x + 1;
@@ -79,12 +108,16 @@ class Program
      {
          return x * 2;
      }*/
-    static int NameCompare(Product p, Product p2)
+    static int NameCompare(object o, object o2)
     {
+        Product p = (Product)o;
+        Product p2 = (Product)o2;
         return p.Description.CompareTo(p2.Description);
     }
-    static int PriceCompare(Product p, Product p2)
+    static int PriceCompare(object o, object o2)
     {
+        Product p = (Product)o;
+        Product p2 = (Product)o2;
         return p.Price.CompareTo(p2.Price);
     }
     

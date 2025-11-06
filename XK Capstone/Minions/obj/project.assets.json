@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\xk1045013\\My Documents\\GitHub\\captone\\XK Capstone\\Minions\\Minions.csproj",
+      "projectUniqueName": "C:\\Users\\xk1045013\\Desktop\\captone\\XK Capstone\\Minions\\Minions.csproj",
       "projectName": "Minions",
-      "projectPath": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\xk1045013\\My Documents\\GitHub\\captone\\XK Capstone\\Minions\\Minions.csproj",
+      "projectPath": "C:\\Users\\xk1045013\\Desktop\\captone\\XK Capstone\\Minions\\Minions.csproj",
       "packagesPath": "C:\\Users\\xk1045013\\.nuget\\packages\\",
-      "outputPath": "\\\\FRANCISTUTTLE.EDU\\Home\\Student\\IT\\xk1045013\\My Documents\\GitHub\\captone\\XK Capstone\\Minions\\obj\\",
+      "outputPath": "C:\\Users\\xk1045013\\Desktop\\captone\\XK Capstone\\Minions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
