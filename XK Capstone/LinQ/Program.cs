@@ -30,24 +30,24 @@ class Program
         foreach (var m in InfoA) { Console.WriteLine(m); }
 
         var Info20 = from p in products
-                        where p.Price < 20.0f
-                        select p;
+                     where p.Price < 20.0f
+                     select p;
         foreach (var m in Info20) { Console.WriteLine(m); }
 
         var Info100_300 = from p in products
-                            where p.Price < 300.0f && p.Price > 100.0f
-                            select p;
+                          where p.Price < 300.0f && p.Price > 100.0f
+                          select p;
         foreach (var m in Info100_300) { Console.WriteLine(m); }
 
         var priceOrderedProducts = from p in products
-                                    orderby p.Price descending
-                                    select p;
+                                   orderby p.Price descending
+                                   select p;
         foreach (var m in priceOrderedProducts) { Console.WriteLine(m); }
 
         var manuGroupedProducts = from p in products
-                                    group p by p.Manufacturer into g
-                                    orderby g.Key
-                                    select g;
+                                  group p by p.Manufacturer into g
+                                  orderby g.Key
+                                  select g;
         foreach (var g in manuGroupedProducts)
         {
             Console.WriteLine(g.Key);
@@ -55,27 +55,39 @@ class Program
             {
                 Console.WriteLine($"\t{product.Description}\t{product.Price}");
             }
-        } 
+        }
         string test = "computer";
         Console.WriteLine(test.stripVowels());
         Product napkins = new Product { Description = "napkins", Price = 1.50f, Manufacturer = "Johnny Napkinson III" };
         Product cheapNapkins = napkins.markDown(0.2f);
         Console.WriteLine(cheapNapkins);
         int[] myArray = { 1, 2, 3, 4, 5 };
-        DelegateTest.processArray(myArray, addOne);
+        DelegateTest.processArray(myArray, x => x + 1);
         foreach (int i in myArray) { Console.Write(i + " "); }
         Console.WriteLine();
-        DelegateTest.processArray(myArray, doubleIt);
+        DelegateTest.processArray(myArray, x => x * 2);
         foreach (int i in myArray) { Console.Write(i + " "); }
+
+        Sort.bubbleSort(products, NameCompare);
     }
-    static int addOne(int x)
+    
+    /* static int addOne(int x)
+     {
+         return x + 1;
+     }
+     static int doubleIt(int x)
+     {
+         return x * 2;
+     }*/
+    static int NameCompare(Product p, Product p2)
     {
-        return x + 1;
+        return p.Description.CompareTo(p2.Description);
     }
-    static int doubleIt(int x)
+    static int PriceCompare(Product p, Product p2)
     {
-        return x * 2;
+        return p.Price.CompareTo(p2.Price);
     }
+    
 }
 
 public class Product
