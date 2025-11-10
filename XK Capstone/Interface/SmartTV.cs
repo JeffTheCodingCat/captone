@@ -1,24 +1,22 @@
-class SmartPhone : IPowerable, IConnectable, IRechargable
+class SmartTV : IPowerable, IConnectable
 {
     private bool powered;
     private string SSID;
-    private int batteryLevel;
-    public SmartPhone(string ssid)
+    public SmartTV(string ssid)
     {
         SSID = ssid;
         powered = false;
-        batteryLevel = 0;
     }
     // IPowerable implementation
     public void PowerOn()
     {
         powered = true;
-        Console.WriteLine("SmartPhone is now ON");
+        Console.WriteLine("SmartTV is now ON");
     }
     public void PowerOff()
     {
         powered = false;
-        Console.WriteLine("SmartPhone is now OFF");
+        Console.WriteLine("SmartTV is now OFF");
     }
     public bool IsOn
     {
@@ -39,10 +37,4 @@ class SmartPhone : IPowerable, IConnectable, IRechargable
         Console.WriteLine("Disconnected from network");
     }
     public string Ssid { get { return SSID; } }
-    // IRechargable implementation
-    public int BatteryLevel { get { return batteryLevel; } }
-    public void Charge()
-    {
-        batteryLevel = 100;
-    }
 }
