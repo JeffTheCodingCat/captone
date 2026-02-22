@@ -31,6 +31,7 @@ class Program
         s = null;
         Account? a = null;
         Console.WriteLine("Hello and welcome to MainChange the branch (awesome)");
+        Console.WriteLine("im gonna make a change and then NOT commit it and switch because i am evil");
     }
     static void nuhUh(int? x)
     {
