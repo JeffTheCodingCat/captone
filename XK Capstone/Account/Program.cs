@@ -30,6 +30,7 @@ class Program
         string? s;
         s = null;
         Account? a = null;
+        Console.WriteLine("Hello and welcome to MainChange the branch (awesome)");
     }
     static void nuhUh(int? x)
     {
